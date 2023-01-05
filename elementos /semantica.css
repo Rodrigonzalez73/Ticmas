@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: antiquewhite;
+    height: 50px;
+    width: auto; 
+    text-align: center;
+    border: 1px solid;
+}
+
+nav{
+    
+    background-color: azure;
+}
+#titulo {
+    color: red;
+    margin-bottom: 20px;
+    border: solid 4px gray;
+    text-align: center;
+
+}
+section{
+ 
+    background-color: beige;
+    width: 300px;
+    height:auto;
+    border:15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+
+article{ background-color: cornflowerblue;
+}
+
+aside {background-color: thistle;}
+
+footer{
+    background-color: crimson;
+}
